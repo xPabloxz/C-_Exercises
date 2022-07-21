@@ -1,2 +1,2 @@
-# C-_Exercises
+# C#_Exercises
 Practices to improve skills.
