@@ -1,0 +1,15 @@
+C:\Users\pablo\OneDrive\Área de Trabalho\new\obj\Debug\net6.0\new.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\new\obj\Debug\net6.0\new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Área de Trabalho\new\obj\Debug\net6.0\new.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\new\obj\Debug\net6.0\new.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Área de Trabalho\new\obj\Debug\net6.0\new.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\new\bin\Debug\net6.0\new.exe
+C:\Users\pablo\OneDrive\Área de Trabalho\new\bin\Debug\net6.0\new.deps.json
+C:\Users\pablo\OneDrive\Área de Trabalho\new\bin\Debug\net6.0\new.runtimeconfig.json
+C:\Users\pablo\OneDrive\Área de Trabalho\new\bin\Debug\net6.0\new.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\new\bin\Debug\net6.0\ref\new.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\new\bin\Debug\net6.0\new.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\new\obj\Debug\net6.0\new.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\new\obj\Debug\net6.0\ref\new.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\new\obj\Debug\net6.0\new.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\new\obj\Debug\net6.0\new.genruntimeconfig.cache
