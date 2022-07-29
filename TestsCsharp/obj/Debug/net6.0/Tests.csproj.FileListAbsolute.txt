@@ -13,3 +13,18 @@ C:\Users\pablo\OneDrive\Área de Trabalho\C# studies\TestsCsharp\obj\Debug\net6.
 C:\Users\pablo\OneDrive\Área de Trabalho\C# studies\TestsCsharp\obj\Debug\net6.0\ref\Tests.dll
 C:\Users\pablo\OneDrive\Área de Trabalho\C# studies\TestsCsharp\obj\Debug\net6.0\Tests.pdb
 C:\Users\pablo\OneDrive\Área de Trabalho\C# studies\TestsCsharp\obj\Debug\net6.0\Tests.genruntimeconfig.cache
+C:\Users\pablo\Exercism\csharp\TestsCsharp\obj\Debug\net6.0\Tests.csproj.AssemblyReference.cache
+C:\Users\pablo\Exercism\csharp\TestsCsharp\obj\Debug\net6.0\Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Exercism\csharp\TestsCsharp\obj\Debug\net6.0\Tests.AssemblyInfoInputs.cache
+C:\Users\pablo\Exercism\csharp\TestsCsharp\obj\Debug\net6.0\Tests.AssemblyInfo.cs
+C:\Users\pablo\Exercism\csharp\TestsCsharp\obj\Debug\net6.0\Tests.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Exercism\csharp\TestsCsharp\obj\Debug\net6.0\Tests.dll
+C:\Users\pablo\Exercism\csharp\TestsCsharp\obj\Debug\net6.0\ref\Tests.dll
+C:\Users\pablo\Exercism\csharp\TestsCsharp\obj\Debug\net6.0\Tests.pdb
+C:\Users\pablo\Exercism\csharp\TestsCsharp\bin\Debug\net6.0\Tests.exe
+C:\Users\pablo\Exercism\csharp\TestsCsharp\bin\Debug\net6.0\Tests.deps.json
+C:\Users\pablo\Exercism\csharp\TestsCsharp\bin\Debug\net6.0\Tests.runtimeconfig.json
+C:\Users\pablo\Exercism\csharp\TestsCsharp\bin\Debug\net6.0\Tests.dll
+C:\Users\pablo\Exercism\csharp\TestsCsharp\bin\Debug\net6.0\ref\Tests.dll
+C:\Users\pablo\Exercism\csharp\TestsCsharp\bin\Debug\net6.0\Tests.pdb
+C:\Users\pablo\Exercism\csharp\TestsCsharp\obj\Debug\net6.0\Tests.genruntimeconfig.cache

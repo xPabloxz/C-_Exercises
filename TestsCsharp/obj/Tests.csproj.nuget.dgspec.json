@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\C# studies\\TestsCsharp\\Tests.csproj": {}
+    "C:\\Users\\pablo\\Exercism\\csharp\\TestsCsharp\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\C# studies\\TestsCsharp\\Tests.csproj": {
+    "C:\\Users\\pablo\\Exercism\\csharp\\TestsCsharp\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\C# studies\\TestsCsharp\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\pablo\\Exercism\\csharp\\TestsCsharp\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\C# studies\\TestsCsharp\\Tests.csproj",
+        "projectPath": "C:\\Users\\pablo\\Exercism\\csharp\\TestsCsharp\\Tests.csproj",
         "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pablo\\OneDrive\\Área de Trabalho\\C# studies\\TestsCsharp\\obj\\",
+        "outputPath": "C:\\Users\\pablo\\Exercism\\csharp\\TestsCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",
