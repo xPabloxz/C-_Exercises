@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pablo\\Exercism\\csharp\\TestsCsharp\\TestsCsharp.csproj",
-      "projectName": "TestsCsharp",
-      "projectPath": "C:\\Users\\pablo\\Exercism\\csharp\\TestsCsharp\\TestsCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\pablo\\Exercism\\csharp\\FirstDegreeEquationThreeMembers\\FirstDegreeEquationThreeMembers.csproj",
+      "projectName": "FirstDegreeEquationThreeMembers",
+      "projectPath": "C:\\Users\\pablo\\Exercism\\csharp\\FirstDegreeEquationThreeMembers\\FirstDegreeEquationThreeMembers.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pablo\\Exercism\\csharp\\TestsCsharp\\obj\\",
+      "outputPath": "C:\\Users\\pablo\\Exercism\\csharp\\FirstDegreeEquationThreeMembers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",

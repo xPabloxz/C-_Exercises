@@ -1,0 +1,15 @@
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\bin\Debug\net6.0\FirstDegreeEquationThreeMembers.exe
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\bin\Debug\net6.0\FirstDegreeEquationThreeMembers.deps.json
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\bin\Debug\net6.0\FirstDegreeEquationThreeMembers.runtimeconfig.json
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\bin\Debug\net6.0\FirstDegreeEquationThreeMembers.dll
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\bin\Debug\net6.0\ref\FirstDegreeEquationThreeMembers.dll
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\bin\Debug\net6.0\FirstDegreeEquationThreeMembers.pdb
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\obj\Debug\net6.0\FirstDegreeEquationThreeMembers.csproj.AssemblyReference.cache
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\obj\Debug\net6.0\FirstDegreeEquationThreeMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\obj\Debug\net6.0\FirstDegreeEquationThreeMembers.AssemblyInfoInputs.cache
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\obj\Debug\net6.0\FirstDegreeEquationThreeMembers.AssemblyInfo.cs
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\obj\Debug\net6.0\FirstDegreeEquationThreeMembers.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\obj\Debug\net6.0\FirstDegreeEquationThreeMembers.dll
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\obj\Debug\net6.0\ref\FirstDegreeEquationThreeMembers.dll
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\obj\Debug\net6.0\FirstDegreeEquationThreeMembers.pdb
+C:\Users\pablo\Exercism\csharp\FirstDegreeEquationThreeMembers\obj\Debug\net6.0\FirstDegreeEquationThreeMembers.genruntimeconfig.cache
